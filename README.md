@@ -1,2 +1,2 @@
 # java
-Repositorio de diversos ejercicios en Java
+Repositorio diverso de Java
